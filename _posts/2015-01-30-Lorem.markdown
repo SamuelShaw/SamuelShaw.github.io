@@ -1,0 +1,13 @@
+---
+layout: post
+title: About Me
+categories: update
+---
+<img src="/images/UrZoneImages/couple.png" class="fit image">
+
+When I'm not programming, by day I am continuously reading and doing research on how I can make my code and logic skills stronger. And by night, that is when I apply what I have learned in new projects and perfecting existing ones. I enjoy the thrill of getting something that I have been frustrated with, but also the ride of anger I may get on my way to that end result! All in all, It's most certainly a satisfying skill to obtain.
+
+In a former life, I was  a choreographer for several upcoming artists and a dancer at heart. As technology evolved and needs in the tech industry continued to grow, my grew closer and close to the features of my cellphone.. "What if this app could do this, with an outlet to this.. That would be really cool!" thoughts like this is what brought me into the career path I have today and I wouldn't have it any other way.
+
+
+I first found my interest in mobile development after learning little things here and there from breaking source code with android applications. After  a while I began to look for a coding school to further my learning beyond Youtube. A good friend of mine referred me to The Iron Yard coding academy in Orlando, Florida and that is where I received my certificate in completion of their iOS mobile engineering course. Now that I have completed the course, I am now ready to began my career in mobile development and continue my learning.

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Ur Zone
+title: <a href="https://github.com/SamuelShaw/UrZone/tree/master/UrZone">Ur Zone</a>
 categories: update
 ---
 <img src="/images/UrZoneImages/iphonefront.png">
 <img src="/images/UrZoneImages/iphoneside.png">
 
- UrZone is the communication app of the future! For our final project at The Iron Yard coding academy, my partner, Phillip English and I created the iOS app, UrZone, a context based app focused on allowing users to engage with the environment around them using iBeacon technology!
+ UrZone is the communication app of the future! For our final project at The Iron Yard coding academy, my partner, <a href="https://github.com/PhillipEnglish">Phillip English</a> and I created the iOS app, UrZone, a context based app focused on allowing users to engage with the environment around them using iBeacon technology!
 
 To accomplish this, we decided to hardcode our first beta to test the iBeacon ranges by their minor number. iBeacons ping a signal to nearby devices using Bluetooth Low Energy, so no need for wifi! With the ping speed from the iBeacons, we were able to allow a share wall in the form of an instant messenger chat when the user is in proximity of the beacon's pings..
 

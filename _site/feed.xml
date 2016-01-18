@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Sam Shaw }</title>
+		<description>Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.</description>
+		<link>https://panossakkos.github.io</link>
+		<atom:link href="https://panossakkos.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>UrZone</title>
+				
+				
+					<description>&lt;p&gt;Connect, Chat, and make the most of now.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 09 Dec 2015 00:00:00 -0500</pubDate>
+				<link>https://panossakkos.github.io/app/2015/12/09/UrZoneApp.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/app/2015/12/09/UrZoneApp.html</guid>
+			</item>
+		
+			<item>
+				<title>QR Code Scanner</title>
+				
+				
+					<description>&lt;p&gt;QR Code Scanner is a beginner code scanner app that serves the purpose of scanning QR codes and directing the user to the embedded url. Check out the source code &lt;a href=&quot;https://github.com/SamuelShaw/QRCodeScanner/tree/master/QRCodeScanner&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+				<link>https://panossakkos.github.io/app/2015/12/07/QRScannerApp.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/app/2015/12/07/QRScannerApp.html</guid>
+			</item>
+		
+			<item>
+				<title>Emojis Social</title>
+				
+				
+					<description>&lt;p&gt;Emojis Social is a simple chat app using emojis as the main purpose of chatting with other users. Check out the source code &lt;a href=&quot;https://github.com/SamuelShaw/EmojisSocial/tree/master/EmojisSocial&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
+				<link>https://panossakkos.github.io/app/2015/12/06/intro-EmojisSocialApp.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/app/2015/12/06/intro-EmojisSocialApp.html</guid>
+			</item>
+		
+			<item>
+				<title>Flying Colors</title>
+				
+				
+					<description>&lt;p&gt;Flying Colors is a simple app I created as a homework assignment during my course at The Iron Yard. The app allows small children to learn their colors by name with voice playback of each color! Check out the source code &lt;a href=&quot;https://github.com/SamuelShaw/FlyingColors/tree/master/FlyingColors&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 29 Nov 2015 00:00:00 -0500</pubDate>
+				<link>https://panossakkos.github.io/app/2015/11/29/FlyingColorsApp.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/app/2015/11/29/FlyingColorsApp.html</guid>
+			</item>
+		
+			<item>
+				<title>Universal Application</title>
+				
+				
+					<description>&lt;p&gt;My Universal Application project isn’t an app at all, but rather a guideline that allows me to create apps that work on both iPhones and iPads. With this guide I can create one app that works with both devices. Check out source code &lt;a href=&quot;https://github.com/SamuelShaw/UniversalApplication/tree/master/UniversalApplication&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
+				<link>https://panossakkos.github.io/app%20guideline/2015/11/15/UniversalApp.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/app%20guideline/2015/11/15/UniversalApp.html</guid>
+			</item>
+		
+	</channel>
+</rss>

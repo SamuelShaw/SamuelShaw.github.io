@@ -1,58 +1,49 @@
----
-layout: default
----
-<div id="main">
-    <article>
-        <header class="major">
-            <h2 class="post-title">{{ page.title }}</h2>
-              <img src="{{ post.postImg }}" class="fit image">
-                <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
-        </header>
+<!-- Post Layout Start -->
 
-        <section>
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
 
-            {{ content }}
-        </section>
+  {% include head.html %}
 
-        <footer>
-            <div class="row">
-            {% if page.previous %}
+  <body>
 
-                <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt">
-                    <header>
-                        <h2><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h2>
-                    </header>
-                    <section>
-                        {{ page.previous.excerpt }}
-                    </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.previous.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
-                </article>
-            {% endif %}
+    {% include navigation.html %}
 
-            {% if page.next %}
+    <section id="post" class="container content-section text-center">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
 
-                <article class="{% cycle '6u', '6u$' %} 12u(small) excerpt f-right">
-                    <header>
-                        <h2><a href="{{ page.next.url }}">{{ page.next.title }}</a></h2>
-                    </header>
-                    <section>
-                        {{ page.next.excerpt | markdownify }}
-                    </section>
-                    <footer>
-                        <ul class="actions">
-                            <li><a href="{{ page.next.url }}" class="button">Read More</a></li>
-                        </ul>
-                    </footer>
-                </article>
-            {% endif %}
-            </div>
-        </footer>
+          {% include swipe-instructions.html %}
 
-    </article>
+          <h1><strong>{{ page.title }}</strong></h1>
+          <h4><strong>{{ page.date | date_to_string }}</strong>
+            <small> . {{ page.category }} . <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
+            {% for tag in page.tags %}
+              <a href="{{site.baseurl}}/tags/{{tag}}.html">#{{ tag }}</a>
+            {% endfor %}
+            </small>
+          </h4>
 
-</div>
+          {{ page.content | markdownify }}
+
+          {% include share.html %}
+
+          {% if jekyll.environment == "production" %}
+            {% include comments.html %}
+          {% endif %}
+
+          {% include social-buttons.html %}
+
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+    {% include js.html %}
+
+  </body>
+</html>
+
+<!-- Post Layout End -->

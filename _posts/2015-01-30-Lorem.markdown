@@ -1,8 +1,0 @@
----
-layout: post
-title: About Me
-categories: update
----
-<img src="/images/UrZoneImages/profilepic.jpg" class="fit image">
-
-My name is Sam Shaw. I am a Junior iOS Developer from Orlando, Florida. I'm a mobile engineer graduate from The Iron Yard, Orlando. Since finishing my course in mobile engineering, I continue to strive everyday in perfecting my skills in creating beautiful, powerful, out of the box mobile apps. Now that I have graduated, I am ready to start my career in Mobile development.

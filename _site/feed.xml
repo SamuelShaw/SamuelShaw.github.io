@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ Sam Shaw }</title>
 		<description>Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.</description>
-		<link>https://panossakkos.github.io/personal-jekyll-theme</link>
-		<atom:link href="https://panossakkos.github.io/personal-jekyll-theme/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://samuelshaw.github.io/personal-jekyll-theme</link>
+		<atom:link href="http://samuelshaw.github.io/personal-jekyll-theme/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>UrZone</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Wed, 09 Dec 2015 00:00:00 -0500</pubDate>
-				<link>https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/09/UrZoneApp.html</link>
-				<guid isPermaLink="true">https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/09/UrZoneApp.html</guid>
+				<link>http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/09/UrZoneApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/09/UrZoneApp.html</guid>
 			</item>
 		
 			<item>
@@ -28,8 +28,8 @@
 </description>
 				
 				<pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
-				<link>https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/07/QRScannerApp.html</link>
-				<guid isPermaLink="true">https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/07/QRScannerApp.html</guid>
+				<link>http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/07/QRScannerApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/07/QRScannerApp.html</guid>
 			</item>
 		
 			<item>
@@ -41,8 +41,8 @@
 </description>
 				
 				<pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
-				<link>https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/06/intro-EmojisSocialApp.html</link>
-				<guid isPermaLink="true">https://panossakkos.github.io/personal-jekyll-theme/app/2015/12/06/intro-EmojisSocialApp.html</guid>
+				<link>http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/06/intro-EmojisSocialApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/personal-jekyll-theme/app/2015/12/06/intro-EmojisSocialApp.html</guid>
 			</item>
 		
 			<item>
@@ -54,8 +54,8 @@
 </description>
 				
 				<pubDate>Sun, 29 Nov 2015 00:00:00 -0500</pubDate>
-				<link>https://panossakkos.github.io/personal-jekyll-theme/app/2015/11/29/FlyingColorsApp.html</link>
-				<guid isPermaLink="true">https://panossakkos.github.io/personal-jekyll-theme/app/2015/11/29/FlyingColorsApp.html</guid>
+				<link>http://samuelshaw.github.io/personal-jekyll-theme/app/2015/11/29/FlyingColorsApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/personal-jekyll-theme/app/2015/11/29/FlyingColorsApp.html</guid>
 			</item>
 		
 			<item>
@@ -67,8 +67,8 @@
 </description>
 				
 				<pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
-				<link>https://panossakkos.github.io/personal-jekyll-theme/app%20guideline/2015/11/15/UniversalApp.html</link>
-				<guid isPermaLink="true">https://panossakkos.github.io/personal-jekyll-theme/app%20guideline/2015/11/15/UniversalApp.html</guid>
+				<link>http://samuelshaw.github.io/personal-jekyll-theme/app%20guideline/2015/11/15/UniversalApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/personal-jekyll-theme/app%20guideline/2015/11/15/UniversalApp.html</guid>
 			</item>
 		
 	</channel>

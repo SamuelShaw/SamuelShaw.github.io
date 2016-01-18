@@ -152,7 +152,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Portfolio: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 

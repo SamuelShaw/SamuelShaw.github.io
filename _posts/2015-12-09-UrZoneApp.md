@@ -11,3 +11,5 @@ Connect, Chat, and make the most of now.
 
  Tech:
 Swift | Parse Cloud Storage | Twitter SDK | Facebook SDK | Core location | Bluetooth Low Energy (BLE) | iBeacons
+
+<img style="border:none" src="/img/zoneimg.png">

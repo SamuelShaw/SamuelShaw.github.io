@@ -56,8 +56,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Everything you can imagine is real."
-  - text: "Genetic code is a divine writing."
+  - text: "Welcome to my website"
+  - text: "Contact me for quality apps"
 
 me-img: "/img/avatar.png"
 
@@ -137,8 +137,6 @@ social:
     url: "https://github.com/SamuelShaw"
   - title: "stack-exchange"
     url: "http://stackexchange.com/users/7452401/shaw-samyy"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
 
 ############
 # 404 page #

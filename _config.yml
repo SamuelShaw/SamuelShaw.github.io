@@ -129,6 +129,8 @@ email: "samyy.abcd@gmail.com"
 ##################
 
 social:
+  - title: "phone-square"
+    url: "https://about.me/sam.shaw"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/samiosdev"
   - title: "twitter"

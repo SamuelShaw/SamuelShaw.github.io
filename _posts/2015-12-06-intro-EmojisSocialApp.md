@@ -9,3 +9,5 @@ Emojis Social is a simple chat app using emojis as the main purpose of chatting 
 
 Tech:
 Swift | Parse Cloud Storage | Twitter SDK | Twitter Api
+
+<img style="border:none" src="/img/es1.png">

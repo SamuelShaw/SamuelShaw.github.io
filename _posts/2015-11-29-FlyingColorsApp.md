@@ -9,3 +9,5 @@ Flying Colors is a simple app I created as a homework assignment during my cours
 
 Tech:
 Swift | Parse Cloud Storage | Twitter SDK | AVSpeech Synthesizer (American/Australian)
+
+<img style="border:none" src="/img/fc1.png">

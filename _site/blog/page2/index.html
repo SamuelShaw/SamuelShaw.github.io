@@ -1,5 +1,5 @@
 
-<!-- Tag Layout Start -->
+<!-- Blog Layout Start -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -28,8 +28,8 @@
   <meta name="description" content="Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.">
   <meta name="author" content="Sam Shaw">
   <meta name="keywords" content="shaw, sam, personal, jekyll, theme">
-  <link rel="canonical" href="/tags/tutorial.html">
-  <title>{ Sam Shaw }  | tutorial</title>
+  <link rel="canonical" href="/blog/page2/">
+  <title>{ Sam Shaw }  | Portfolio</title>
 
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -147,37 +147,132 @@
 <!-- Navigation End -->
 
 
-    <section class="container content-section text-center">
+    <section id="page" class="container content-section text-center">
+
       <div class="row">
         <div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1">
 
+        
+<!-- Swipe Instructions Start -->
+
+<div id="swipe-instruction">
+  <div>
+    <p><br><br><br></p>
+    <i id="hand-swipe" class="fa fa-hand-o-up"></i>
+    <p><strong>
+    
+      Did you know that you can navigate the archive pages by swiping left and right?
+    
+    </strong></p>
+    <button type="button" class="btn btn-default ok-btn close-swipe-instruction">
+      
+        Got it!
+      
+    </button>
+  </div>
+</div>
+
+<!-- Swipe Instructions End -->
+
+
+        <h2 id="projects">Projects</h2>
+
+
+        <div>
           
+            
+<!-- Post List Start -->
 
-          <h3 id="#tutorial">#tutorial</h3>
+<h4 align="left">
+  <strong>07 Dec 2015</strong>
+  <small>. App .</small>
+  <br class="visible-xs-block">
+  <a href="/app/2015/12/07/QRScannerApp.html">
+    <strong>QR Code Scanner</strong>
+  </a>
+  <br class="visible-xs-block">
+  <small><a href="/app/2015/12/07/QRScannerApp.html#disqus_thread">Comments</a></small>
+</h4>
 
-          <div>
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-          </div>
+<!-- Post List End -->
 
           
+            
+<!-- Post List Start -->
+
+<h4 align="left">
+  <strong>06 Dec 2015</strong>
+  <small>. App .</small>
+  <br class="visible-xs-block">
+  <a href="/app/2015/12/06/intro-EmojisSocialApp.html">
+    <strong>Emojis Social</strong>
+  </a>
+  <br class="visible-xs-block">
+  <small><a href="/app/2015/12/06/intro-EmojisSocialApp.html#disqus_thread">Comments</a></small>
+</h4>
+
+<!-- Post List End -->
+
+          
+            
+<!-- Post List Start -->
+
+<h4 align="left">
+  <strong>29 Nov 2015</strong>
+  <small>. App .</small>
+  <br class="visible-xs-block">
+  <a href="/app/2015/11/29/FlyingColorsApp.html">
+    <strong>Flying Colors</strong>
+  </a>
+  <br class="visible-xs-block">
+  <small><a href="/app/2015/11/29/FlyingColorsApp.html#disqus_thread">Comments</a></small>
+</h4>
+
+<!-- Post List End -->
+
+          
+            
+<!-- Post List Start -->
+
+<h4 align="left">
+  <strong>15 Nov 2015</strong>
+  <small>. App Guideline .</small>
+  <br class="visible-xs-block">
+  <a href="/app%20guideline/2015/11/15/UniversalApp.html">
+    <strong>Universal Application</strong>
+  </a>
+  <br class="visible-xs-block">
+  <small><a href="/app%20guideline/2015/11/15/UniversalApp.html#disqus_thread">Comments</a></small>
+</h4>
+
+<!-- Post List End -->
+
+          
+        </div>
+
+        
+<!-- Pagination Links Start -->
+
+<div class="pagination">
+
+  <h4>
+
+  
+    <a href="/blog/index.html" class="previous">Newer Posts</a>
+  
+
+  
+
+  
+
+  </h4>
+
+</div>
+
+<!-- Pagination Links End -->
+
+
+        
 <!-- Social Buttons Start -->
 
 <ul class="list-inline social-buttons">
@@ -296,7 +391,7 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 <script>
 function addTohistory() {
   if (!window.location.host.startsWith("127.0.0.1")) {
-    history.pushState({}, 'tutorial', 'http://samuelshaw.github.io/tags/tutorial.html');
+    history.pushState({}, 'Portfolio', 'http://samuelshaw.github.io/blog/page2/index.html');
   }
 }
 </script>
@@ -304,6 +399,49 @@ function addTohistory() {
 
 
 
+
+  <!-- Blog Gesture Navigation Start -->
+
+  <script type="text/javascript" src="/js/hammer.min.js"></script>
+
+  <script>
+    var page = document.getElementById('page');
+
+    new Hammer(page).on('swipeleft', function(event) {
+      addTohistory();
+      
+        document.location.replace("/");
+      
+    });
+    new Hammer(page).on('swiperight', function(event) {
+      addTohistory();
+      
+        document.location.replace("/blog/index.html");
+      
+    });
+  </script>
+
+  <!-- Blog Gesture Navigation Start -->
+
+
+
+
+
+  <!-- Swipe Instructions for Blog Start -->
+
+  <script>
+    $(document).ready(function(){
+      if(!localStorage.getItem('blog-swipeshowed')){
+        $("#swipe-instruction").fadeIn();
+        $("#swipe-instruction .close-swipe-instruction").click(function(){
+          $("#swipe-instruction").fadeOut();
+        });
+        localStorage.setItem('blog-swipeshowed', true);
+      }
+    });
+  </script>
+
+  <!-- Swipe Instructions for Blog End -->
 
 
 
@@ -315,4 +453,4 @@ function addTohistory() {
   </body>
 </html>
 
-<!-- Tag Layout End -->
+<!-- Blog Layout End -->

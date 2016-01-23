@@ -7,6 +7,58 @@
 		<atom:link href="http://samuelshaw.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vibrate Device</title>
+				
+				
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/VibrateDevice1.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://samuelshaw.github.io/app%20guideline/2016/01/23/VibrateDeviceApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/app%20guideline/2016/01/23/VibrateDeviceApp.html</guid>
+			</item>
+		
+			<item>
+				<title>Sound Board</title>
+				
+				
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/soundboard2.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://samuelshaw.github.io/app/2016/01/23/SoundBoardApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/app/2016/01/23/SoundBoardApp.html</guid>
+			</item>
+		
+			<item>
+				<title>Play Sound</title>
+				
+				
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/playingSound1.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://samuelshaw.github.io/app%20guideline/2016/01/23/PlayingSoundApp.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/app%20guideline/2016/01/23/PlayingSoundApp.html</guid>
+			</item>
+		
+			<item>
+				<title>GT-R Gallery</title>
+				
+				
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/gtr1.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 23 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://samuelshaw.github.io/app/2016/01/23/GTRGallery.html</link>
+				<guid isPermaLink="true">http://samuelshaw.github.io/app/2016/01/23/GTRGallery.html</guid>
+			</item>
+		
+			<item>
 				<title>UrZone</title>
 				
 				
@@ -23,7 +75,7 @@
 				<title>QR Code Scanner</title>
 				
 				
-					<description>&lt;p&gt;QR Code Scanner is a beginner code scanner app that serves the purpose of scanning QR codes and directing the user to the embedded url. Check out the source code &lt;a href=&quot;https://github.com/SamuelShaw/QRCodeScanner/tree/master/QRCodeScanner&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/qr1.png&quot; /&gt;&lt;/p&gt;
 
 </description>
 				
@@ -62,7 +114,7 @@
 				<title>Universal Application</title>
 				
 				
-					<description>&lt;p&gt;My Universal Application project isn’t an app at all, but rather a guideline that allows me to create apps that work on both iPhones and iPads. With this guide I can create one app that works with both devices. Check out source code &lt;a href=&quot;https://github.com/SamuelShaw/UniversalApplication/tree/master/UniversalApplication&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
+					<description>&lt;p&gt;&lt;img style=&quot;border:none&quot; src=&quot;/img/ua1.png&quot; /&gt;&lt;/p&gt;
 
 </description>
 				
